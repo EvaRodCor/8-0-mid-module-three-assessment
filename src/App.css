@@ -1,1 +1,41 @@
+.app {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    margin-left: 5%;
+}
 
+.products {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+.product {
+    margin-bottom: 30px;
+}
+
+
+form {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+
+.checkout-Container {
+    margin-top: 50px;
+}
+
+
+#checkout {
+    width: 150px;
+}
+
+
+input {
+    margin-bottom: 10px;
+}
+
+
+.buy {
+    width: 70px;
+}
